@@ -1,4 +1,4 @@
-// Compound interest
+//formula ment to calculate compound interest 
 #include <stdio.h>
 #include <math.h>
 
